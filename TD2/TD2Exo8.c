@@ -52,7 +52,7 @@ Afficher( "Cordonnées min=(%d, %d)\n\n", x, y);
     Fin Pour
   Fin Pour
 
-Afficher("Le nombre minimal: max=", max, "\n");
+Afficher("Le nombre maximal: max=", max, "\n");
 Afficher( "Cordonnées max=(", a, ", ", b, ")");
 
 Fin
